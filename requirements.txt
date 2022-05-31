@@ -1,0 +1,10 @@
+scrapy
+lxml
+elasticsearch_dsl
+selenium
+mysqlclient
+redis
+undetected_chromedriver
+scrapy-fake-useragent
+numpy
+opencv-python
